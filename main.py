@@ -516,7 +516,7 @@ def coduri_inlantuite():
         chain_code_display.config(text="Nu a fost gasit niciun contur")
 
 root = tk.Tk()
-root.title("Image Processing App")
+root.title("Aplicație PI")
 
 root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=1)
